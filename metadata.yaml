@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5993
     wikipedia: http://en.wikipedia.org/wiki/Charles_%C3%89tienne_Brasseur_de_Bourbourg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15309#Rabinal-Achivepu-Xahoh-tun-u-bi-xahoh-rech-vae-tinamit-Rabinal
 gutenberg_issued: '2005-03-10'
 gutenberg_type: Text
 identifiers:

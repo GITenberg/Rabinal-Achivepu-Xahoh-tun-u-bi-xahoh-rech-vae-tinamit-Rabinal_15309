@@ -1,0 +1,35 @@
+_repo: Rabinal-Achivepu-Xahoh-tun-u-bi-xahoh-rech-vae-tinamit-Rabinal_15309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Brasseur de Bourbourg, abbé
+    aliases:
+    - Bourbourg, Charles Etienne Brasseur de
+    - Brasseur de Bourbourg, abbe
+    - Bourbourg, Brasseur de, abbé
+    - De Bourbourg, Brasseur, abbé
+    - Bourbourg, Charles Étienne Brasseur de
+    birthdate: 1814
+    deathdate: 1874
+    gutenberg_agent_id: '5993'
+    url: http://www.gutenberg.org/2009/agents/5993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_%C3%89tienne_Brasseur_de_Bourbourg
+description: ''
+gutenberg_issued: '2005-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15309'
+language: myn
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quiché drama'
+- !lcc 'PM'
+title: 'Rabinal-Achi
+
+  vepu Xahoh-tun u bi xahoh rech vae tinamit Rabinal'
+url: http://www.gutenberg.org/ebooks/15309
